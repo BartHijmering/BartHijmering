@@ -1,7 +1,7 @@
 About me
 
--A dutch student with some experience in html, java, javascript, c# and android</n>
--My workflow is slow and steady, trying to understand things rather than just copy/paste them.
+-A dutch student with some experience in html, java, javascript, c# and android<br>
+-My workflow is slow and steady, trying to understand things rather than just copy/paste them.<br>
 -Likes to start the day late ~ 
 
 <!---
