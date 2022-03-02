@@ -1,6 +1,6 @@
 About me
 
--A dutch student with some experience in html, java, javascript, c# and android
+-A dutch student with some experience in html, java, javascript, c# and android</n>
 -My workflow is slow and steady, trying to understand things rather than just copy/paste them.
 -Likes to start the day late ~ 
 
